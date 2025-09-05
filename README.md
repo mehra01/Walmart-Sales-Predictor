@@ -47,7 +47,7 @@ The solution leverages **scikit-learn’s preprocessing modules** for data clean
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/walmart-sales-predictor.git
+git clone https://github.com/mehra01/walmart-sales-predictor.git
 cd walmart-sales-predictor
 pip install -r requirements.txt
 # 🛒 Walmart Sales Predictor
@@ -99,6 +99,6 @@ The solution leverages **scikit-learn’s preprocessing modules** for data clean
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/walmart-sales-predictor.git
+git clone https://github.com/mehra01/walmart-sales-predictor.git
 cd walmart-sales-predictor
 pip install -r requirements.txt
